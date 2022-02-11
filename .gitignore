@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/ConsoleBTree/v16
+/ConsoleBTree/bin/Debug
+/ConsoleBTree/obj/Debug

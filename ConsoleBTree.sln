@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBTree", "ConsoleBTree\ConsoleBTree.csproj", "{3C7E4B4D-B92D-45FE-9723-74D28880D59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7E4B4D-B92D-45FE-9723-74D28880D59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7E4B4D-B92D-45FE-9723-74D28880D59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7E4B4D-B92D-45FE-9723-74D28880D59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7E4B4D-B92D-45FE-9723-74D28880D59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215D40CB-DAEE-4BB7-AA30-663C8F4F227B}
+	EndGlobalSection
+EndGlobal
